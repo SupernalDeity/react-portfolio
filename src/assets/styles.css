@@ -1,3 +1,8 @@
+body {
+  background-color: #404040;
+  height: 100%;
+}
+
 p.indent {
   text-indent: 50px;
 }
