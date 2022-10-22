@@ -58,8 +58,8 @@ function App() {
             <div className="d-flex justify-content-center collapse navbar-collapse" id="navbarNavAltMarkup">
               <div className="navbar-nav ">
                 <a onClick={() => setCurrentPage('About')} className={`nav-link text-warning ${aboutOpacity}`}>About</a>
-                <a onClick={() => setCurrentPage('Contact')} className={`nav-link text-warning ${contactOpacity}`}>Contact</a>
                 <a onClick={() => setCurrentPage('Portfolio')} className={`nav-link text-warning ${portfolioOpacity}`}>Portfolio</a>
+                <a onClick={() => setCurrentPage('Contact')} className={`nav-link text-warning ${contactOpacity}`}>Contact</a>
                 <a onClick={() => setCurrentPage('Resume')} className={`nav-link text-warning ${resumeOpacity}`}>Resume</a>
               </div>
             </div>
