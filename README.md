@@ -15,7 +15,7 @@
 ## Links
 GitHub: https://github.com/SupernalDeity/react-portfolio
 
-Heroku Live Site: 
+Live Site: https://supernaldeity.github.io/react-portfolio/
 
 ## Suppport
 Send any inquiries to perezant121@gmail.com.
