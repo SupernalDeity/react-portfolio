@@ -22,6 +22,7 @@ function resume() {
         <li className='mx-5 my-1 text-white'>MySQL, Sequelize</li>
         <li className='mx-5 my-1 text-white'>REST</li>
         <li className='mx-5 my-1 text-white'>MongoDB, Mongoose</li>
+        <li className='mx-5 my-1 text-white'>GraphQL</li>
       </ul>
   </div>
   )

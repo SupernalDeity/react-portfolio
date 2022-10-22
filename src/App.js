@@ -7,6 +7,7 @@ import Portfolio from './pages/Portfolio'
 import Contact from './pages/Contact'
 import Resume from './pages/Resume'
 import './assets/styles.css';
+import Footer from './components/Footer';
 
 let aboutOpacity = 'text-opacity-50';
 let portfolioOpacity = 'text-opacity-50';
@@ -67,6 +68,7 @@ function App() {
         </nav>
       </div>
       {renderPage(currentPage)}
+      <Footer></Footer>
     </div>
   )
 }
