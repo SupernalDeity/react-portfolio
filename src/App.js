@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import About from './pages/About'
 import Portfolio from './pages/Portfolio'
 import Contact from './pages/Contact'
@@ -47,6 +47,10 @@ function renderPage(currentPage) {
 
 function App() {
   const [currentPage, setCurrentPage] = useState('About');
+
+useEffect(() => {
+    setCurrentPage('About')
+  }, [])
 
   return (
     <div>
