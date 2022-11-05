@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.dea2ab80.css",
-    "main.js": "/react-portfolio/static/js/main.5ab25909.js",
+    "main.js": "/react-portfolio/static/js/main.7839d4a0.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/The-Gamers-Checkpointfresh.png": "/react-portfolio/static/media/The-Gamers-Checkpointfresh.db30c2a615baa0cd0e4d.png",
     "static/media/solar-clicker.png": "/react-portfolio/static/media/solar-clicker.23c8f4d2027a6e249c2e.png",
@@ -13,11 +13,11 @@
     "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-portfolio/index.html",
     "main.dea2ab80.css.map": "/react-portfolio/static/css/main.dea2ab80.css.map",
-    "main.5ab25909.js.map": "/react-portfolio/static/js/main.5ab25909.js.map",
+    "main.7839d4a0.js.map": "/react-portfolio/static/js/main.7839d4a0.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dea2ab80.css",
-    "static/js/main.5ab25909.js"
+    "static/js/main.7839d4a0.js"
   ]
 }
