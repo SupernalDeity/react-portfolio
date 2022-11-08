@@ -7,7 +7,7 @@
 * [Support](#support)
 
 ## Description
-  A react based portfolio I created. Right now it is mostly a template that I can use in the future to build a fully fleshed out portfolio for employers.
+A react based portfolio I created. Right now it is mostly a template that I can use in the future to build a fully fleshed out portfolio for employers.
 
 ## Visuals
 ![example of program](./src/assets/images/react-portfolio.png)
