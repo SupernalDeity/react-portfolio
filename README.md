@@ -15,7 +15,7 @@ A react based portfolio I created. Right now it is mostly a template that I can 
 ## Links
 GitHub: https://github.com/SupernalDeity/react-portfolio
 
-Live Site: https://supernaldeity.github.io/react-portfolio/
+Live Site: 
 
 ## Suppport
 Send any inquiries to perezant121@gmail.com.
